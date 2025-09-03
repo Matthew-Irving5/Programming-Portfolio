@@ -1,1 +1,55 @@
-# Programming-Portfolio
+# Programming Portfolio
+
+Welcome!  
+This repo showcases a selection of projects I’ve built to sharpen my software engineering skills and demonstrate my ability to deliver real-world, practical solutions.
+
+---
+
+## Featured Projects
+
+### 1. SaaS Task Manager
+A subscription-based task management platform designed to help teams and individuals organize work efficiently.  
+Think of it as a lightweight, scalable productivity tool.
+
+**Key Features**
+- User authentication & role-based access (secure login & team management)
+- CRUD functionality for tasks (create, update, delete, assign)
+- Deadlines & priority levels for task tracking
+- Responsive UI for mobile & desktop use
+- Multi-user support (simulating SaaS scalability)
+
+**Why I Built This**
+I wanted to understand how SaaS (Software-as-a-Service) products are structured and what it takes to build something people could “use out of the box.”  
+This project taught me:
+- How to design for scalability (multi-user data separation)
+- The importance of clean, intuitive UI for user retention
+- Authentication flows and security best practices
+
+---
+
+### 2. Salary Predictor (Machine Learning)
+A data-driven app that predicts salary ranges based on input factors like education, experience, and job role.
+
+**Key Features**
+- Data preprocessing & cleaning (handling missing values, encoding categories)
+- Regression models for salary prediction
+- Model evaluation & optimization
+- Interactive interface for user inputs and real-time predictions
+
+**Why I Built This**
+I wanted hands-on experience applying machine learning to real-world datasets.  
+This project taught me:
+- The full ML pipeline (data → model → predictions)
+- How to communicate model outputs to non-technical users
+- The trade-offs between different regression approaches
+
+---
+
+## Portfolio Tech Highlights
+- **Frontend:** React, Flask, TailwindCSS, Javascript, Typescript, JWT Auth, Axios
+- **Backend:** Node.js, Python, Pandas, Numpy, JWT Authentication, C#
+- **Database:** MSSQL, Migrations, Seeding 
+- **Machine Learning:** Pytorch, Pandas, Scikit-learn, Pickle  
+- **Deployment:** Docker
+
+---
