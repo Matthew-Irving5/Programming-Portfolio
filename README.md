@@ -7,9 +7,10 @@ This repo showcases a selection of projects I’ve built to sharpen my software 
 
 ## Featured Projects
 
-### 1. SaaS Task Manager
-A subscription-based task management platform designed to help teams and individuals organize work efficiently.  
-Think of it as a lightweight, scalable productivity tool.
+### 1. Task Manager Website
+A task management platform designed to help teams and individuals organize work efficiently.  
+Create, Assign and organise tasks as you wish with this role-based task manager.
+
 https://github.com/Matthew-Irving5/task-manager-saas
 
 **Key Features**
@@ -29,21 +30,22 @@ This project taught me:
 ---
 
 ### 2. Salary Predictor (Machine Learning)
-A data-driven app that predicts salary ranges based on input factors like education, experience, and job role.
+A data-driven app that predicts salary ranges based on input factors like location, experience, and job role.
+
 https://github.com/Matthew-Irving5/AI-Salary-Predictor
 
 **Key Features**
 - Data preprocessing & cleaning (handling missing values, encoding categories)
-- Regression models for salary prediction
+- Neural Network models for salary prediction
 - Model evaluation & optimization
-- Interactive interface for user inputs and real-time predictions
+- User interface for inputs and real-time predictions
 
 **Why I Built This**
 I wanted hands-on experience applying machine learning to real-world datasets.  
 This project taught me:
 - The full ML pipeline (data → model → predictions)
 - How to communicate model outputs to non-technical users
-- The trade-offs between different regression approaches
+- The trade-offs between different ML approaches
 
 ---
 
