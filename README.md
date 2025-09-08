@@ -21,6 +21,7 @@ https://github.com/Matthew-Irving5/task-manager-saas
 - Multi-user support (simulating SaaS scalability)
 
 **Why I Built This**
+
 I wanted to understand how SaaS (Software-as-a-Service) products are structured and what it takes to build something people could “use out of the box.”  
 This project taught me:
 - How to design for scalability (multi-user data separation)
@@ -41,6 +42,7 @@ https://github.com/Matthew-Irving5/AI-Salary-Predictor
 - User interface for inputs and real-time predictions
 
 **Why I Built This**
+
 I wanted hands-on experience applying machine learning to real-world datasets.  
 This project taught me:
 - The full ML pipeline (data → model → predictions)
