@@ -10,6 +10,7 @@ This repo showcases a selection of projects I’ve built to sharpen my software 
 ### 1. SaaS Task Manager
 A subscription-based task management platform designed to help teams and individuals organize work efficiently.  
 Think of it as a lightweight, scalable productivity tool.
+https://github.com/Matthew-Irving5/task-manager-saas
 
 **Key Features**
 - User authentication & role-based access (secure login & team management)
@@ -29,6 +30,7 @@ This project taught me:
 
 ### 2. Salary Predictor (Machine Learning)
 A data-driven app that predicts salary ranges based on input factors like education, experience, and job role.
+https://github.com/Matthew-Irving5/AI-Salary-Predictor
 
 **Key Features**
 - Data preprocessing & cleaning (handling missing values, encoding categories)
