@@ -48,8 +48,12 @@ This project taught me:
 ## Portfolio Tech Highlights
 - **Frontend:** React, Flask, TailwindCSS, Javascript, Typescript, JWT Auth, Axios
 - **Backend:** Node.js, Python, Pandas, Numpy, JWT Authentication, C#
-- **Database:** MSSQL, Migrations, Seeding 
+- **Database:** MSSQL, Migrations, Seeding
 - **Machine Learning:** Pytorch, Pandas, Scikit-learn, Pickle  
 - **Deployment:** Docker
 
 ---
+
+## Further Projects
+Not every project can be part of the highlights package. If you wish to view the extend of my work further, please check out these other projects
+- https://github.com/Matthew-Irving5/Command-Line-To-Do-List-Manager
